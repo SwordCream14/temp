@@ -1,0 +1,19 @@
+void main ( )
+{
+	float c;
+	char m ;
+	int a , b , x = 20 , y = 0 ;
+	a = 5 ;
+	b = 6 ;
+	int z  = a+b - 5;
+	int B = a + b - y * a / 2 ;
+	c = y*a + (a+b) /5;
+	if ( B == 6  *b+x+y ) {
+		while ( x > y ) y = y + 1 ;
+		int time = y - 0 / x ;
+	}
+	else B = 1 ;
+	x = 5.03 ;
+	z = 9.8;
+	y = -5.3;
+}

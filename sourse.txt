@@ -1,0 +1,11 @@
+void main ( )
+{
+	char c ;
+	int a , b , x , y ;
+	a = 5 ;
+	b = 6 ;
+	int B = a + ( b - y * a ) / 2 ;
+	x = 5.03 ;
+	y = -6.04 ;
+	y = -6.04 ;
+}

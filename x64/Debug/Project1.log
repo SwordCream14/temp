@@ -1,0 +1,22 @@
+﻿  Quaternion.cpp
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\symtab.h(231,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\symtab.h(245,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\symtab.h(253,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\symtab.h(294,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\symtab.h(325,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\Quaternion.cpp(519,44): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\Quaternion.cpp(685,46): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  main.cpp
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\symtab.h(231,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\symtab.h(245,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\symtab.h(253,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\symtab.h(294,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\symtab.h(325,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\Scan.h(18,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\Scan.h(106,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\Scan.h(191,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\Scan.h(332,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\Scan.h(400,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\编译原理课设3\symtab.h(201): warning C4715: “SymTable::Find_cur”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\灿若骄阳\temp1\编译\答案\编译原理课设3\VS2022\Project1\x64\Debug\Project1.exe
